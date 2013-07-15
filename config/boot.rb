@@ -1,3 +1,7 @@
+if File.exist?(File.expand_path('./exports', File.dirname(__FILE__)))
+  require File.expand_path('./exports', File.dirname(__FILE__))
+end
+
 require 'rubygems'
 
 # Set up gems listed in the Gemfile.
