@@ -14,8 +14,6 @@ The app itself is a basic Spree Commerce install and can be up and running local
 following commands after a git clone:
 
     bundle install
-    rake db:migrate
-    rake db:seed
-    rake spree_auth:admin:create
+    rake db:setup
     rake spree_sample:load
 
