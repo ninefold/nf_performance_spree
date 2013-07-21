@@ -17,3 +17,24 @@ following commands after a git clone:
     rake db:setup
     rake spree_sample:load
 
+
+Setup on Ninefold
+----------------------------------------------
+
+
+
+Setup on Heroku
+----------------------------------------------
+
+
+
+Setup on EngineYard
+----------------------------------------------
+
+
+
+
+Setup on AWS
+----------------------------------------------
+
+
