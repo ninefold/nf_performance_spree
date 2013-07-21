@@ -1,1 +1,10 @@
-precompile_assets: true
+environments:
+  performance_small:
+    precompile_assets: true
+    branch: master
+  performance_medium:
+    precompile_assets: true
+    branch: master
+  performance_large:
+    precompile_assets: true
+    branch: master
