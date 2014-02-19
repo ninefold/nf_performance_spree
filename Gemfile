@@ -37,6 +37,6 @@ end
 # To use debugger
 # gem 'debugger'
 
-gem 'spree', :github => 'spree/spree', :branch => "master"
+gem 'spree', :github => 'spree/spree', :branch => "2-2-stable"
 gem 'spree_gateway', :git => 'https://github.com/spree/spree_gateway.git'
 gem 'spree_auth_devise', :git => 'https://github.com/spree/spree_auth_devise.git'

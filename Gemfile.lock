@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/spree/spree.git
-  revision: 1fecd50bd2564fc178de07b3c29a9c4475c7d03e
-  branch: master
+  revision: 63b9b0d1942909a19feedde38d5a20d696527352
+  branch: 2-2-stable
   specs:
     spree (2.2.0.beta)
       spree_api (= 2.2.0.beta)
@@ -37,7 +37,7 @@ GIT
       kaminari (~> 0.15.0)
       paperclip (~> 3.4.1)
       paranoia (~> 2.0)
-      rails (~> 4.0.0)
+      rails (~> 4.0.3)
       ransack (~> 1.1.0)
       state_machine (= 1.2.0)
       stringex (~> 1.5.1)
