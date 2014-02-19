@@ -285,12 +285,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-rails (~> 4.0.0)
+  coffee-rails
   jquery-rails
   newrelic_rpm
   pg
   rails (~> 4.0.2)
-  sass-rails (~> 4.0.0)
+  sass-rails
   spree!
   spree_auth_devise!
   spree_gateway!
