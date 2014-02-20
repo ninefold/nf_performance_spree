@@ -17,6 +17,7 @@ end
 
 gem 'jquery-rails'
 gem 'newrelic_rpm'
+gem 'redis-rails'
 
 group :production do
   gem 'unicorn'
